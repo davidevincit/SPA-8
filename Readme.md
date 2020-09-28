@@ -12,7 +12,9 @@ Per dev-mode:
 
 Per il test :   
  1- lanciare npm run test   
- 2- per creare il bundle di test lanciare npm run build:test   
+ 2- per creare il bundle di test lanciare npm run build:test 
+ 
+Remote github repository   https://github.com/davidevincit/SPA-8
  
  TOOL Utilizzati   
  nodejs, webpack, jest, jquery , bootstrap, mustache 
